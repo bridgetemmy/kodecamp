@@ -1,0 +1,106 @@
+body{
+    padding: 30px 30px 30px 30px;
+    margin: 50px 50px 50px 50px;
+}
+.auth-layout{
+    display: flex;
+    justify-content:space-evenly;
+    width: 100%;
+    height: 100vh;
+}
+.welcome{
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 40px;
+    height: 40px;
+    width: 100%;
+    justify-content: center;
+}
+.image-section{
+    width: 50%;
+    padding: 15px 0 20px 0;
+    height: 80vh;
+}
+.content-section{
+    width: 50%;
+    height: 100vh;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 40px;
+   text-decoration-style: none;
+  border-bottom: 7px solid orange;
+  border-width: 5px; 
+}
+.content-text{
+    width: 80%;
+    height: 100vh;
+    font-size: 18px;
+
+}
+.form-section{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 10px 30px 0px 20px;
+    width: 50%;
+    height: 80vh;
+}
+.contact-us{
+    display: flex;
+  justify-content: flex-start;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+ 
+.logo{
+    padding-top: 20px;
+    margin: 0;
+    width: 80%;
+    height: 100vh;
+
+}
+button{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 23px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: blue;
+    text-transform: capitalize;
+    font-style: normal;
+    font-family: sans-serif;
+    height: 50px;
+    color: white;
+    border-color: blue;
+    
+}
+textarea{
+  width: 400px;
+  height: 20vh;
+  border-radius: 5px;
+ 
+}
+
+
+input {
+  border-radius: 5px;
+  width:400px;
+  height:5vh;
+}
+
+.button-submit{
+  width: 300px;
+  height:70px;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 105px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+
+
