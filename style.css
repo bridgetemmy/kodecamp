@@ -23,20 +23,10 @@ body{
 }
 .content-section{
     text-align: center;
-    background-color: brown;
     width: 50%;
     height: 100vh;
 }
-.h2{
-    /* display: flex;
-    justify-content: center;
-    height: 50px;
-    margin-bottom: 40px;
-   text-decoration-style: none;
-  border-bottom: 7px solid orange;
-  border-width: 5px;  */
-  
-}
+
 .h2::after {
     content: '';
     display: inherit;
